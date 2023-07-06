@@ -20,4 +20,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossatto&hide_progress=true)
 <br><br>
 
-#### Estudando análise e desenvolvimento de sistemas na faculdade IMPACTA, apaixonado por tecnologia 
+#### Estudando análise e desenvolvimento de sistemas na faculdade IMPACTA, apaixonado por tecnologia ❤️
